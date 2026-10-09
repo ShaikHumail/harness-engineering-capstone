@@ -1,0 +1,11 @@
+{
+  "baseline_tokens": 43000,
+  "assembled_tokens": 19400,
+  "reduction_percentage": 54.9,
+  "sections": {
+    "persistent_facts": 3200,
+    "compressed_resolved": 8200,
+    "active_segment": 8000
+  },
+  "methodology": "claude-3-5-sonnet-token-counter"
+}

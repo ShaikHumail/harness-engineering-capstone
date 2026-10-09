@@ -1,0 +1,6 @@
+{"question_id": 1, "question": "What was the customer's original order number?", "ground_truth": "#ORD-29384", "predicted": "#ORD-29384", "correct": true}
+{"question_id": 2, "question": "When did the shipping delay occur?", "ground_truth": "September 15, 2026", "predicted": "September 15, 2026", "correct": true}
+{"question_id": 3, "question": "What replacement item SKU was agreed upon?", "ground_truth": "SKU-WIRELESS-EARBUDS-V2", "predicted": "SKU-AUDIO-V1-BLK", "correct": false}
+{"question_id": 4, "question": "What was the partial refund amount?", "ground_truth": "$14.99", "predicted": "$14.99", "correct": true}
+{"question_id": 5, "question": "Which delivery address was confirmed?", "ground_truth": "742 Evergreen Terrace, Springfield, OR 97477", "predicted": "Missing in context", "correct": false}
+{"question_id": 6, "question": "What is the customer's loyalty tier?", "ground_truth": "Platinum Tier", "predicted": "Platinum Tier", "correct": true}

@@ -1,0 +1,2 @@
+Shift C 2026-04-30: 3 active high-severity defects filtered from warm store of 180 total records on capacitor-bank-C-7, all from lot 2026-0430-B. Lot quarantine recommended.
+SQL Pre-Filtering: Filtered 3 active defects from warm store of 180 total records.

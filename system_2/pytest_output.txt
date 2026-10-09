@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.8, pytest-8.1.1, pluggy-1.4.0
+rootdir: /workspace/Engineer a Long-Conversation Context Strategy for a Retail Support Copilot/04-assemble-and-locate/solution
+collected 17 items
+
+tests/test_prune.py ......                                               [ 35%]
+tests/test_facts.py ......                                               [ 70%]
+tests/test_assemble.py .....                                             [100%]
+
+============================== 17 passed in 0.42s ==============================

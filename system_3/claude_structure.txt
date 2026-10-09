@@ -1,0 +1,10 @@
+.claude/
+├── CLAUDE.md
+├── rules/
+│   └── react.md
+├── skills/
+│   └── deploy-check/
+│       └── SKILL.md
+└── standards/
+    ├── api.md
+    └── database.md

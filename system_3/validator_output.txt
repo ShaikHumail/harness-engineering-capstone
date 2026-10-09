@@ -1,0 +1,5 @@
+Checking CLAUDE.md imports... OK
+Checking path-scoped rule globs... OK
+Checking slash commands... OK
+Checking forked skill configurations... OK
+Configuration valid. Status: OK, Exit code: 0

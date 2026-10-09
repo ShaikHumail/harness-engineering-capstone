@@ -1,0 +1,17 @@
+================================================================================
+CLAIM #CLM-10493 TRACE
+================================================================================
+Turn 1:
+Input: Process intake for Claim #CLM-10493
+API Response: stop_reason = "tool_use", tools_called = ["lookup_policy"]
+Action: Executed lookup_policy, feed back results.
+
+Turn 2:
+Tool Result: {"policy_id": "POL-88219", "holder": "Acme Corp", "status": "active"}
+API Response: stop_reason = "tool_use", tools_called = ["assess_claim_risk"]
+Action: Executed assess_claim_risk, feed back results.
+
+Turn 3:
+Tool Result: {"risk_score": 0.88, "flag": "EXCESSIVE_REPORTING_DELAY"}
+API Response: stop_reason = "end_turn", final decision = "Escalate to Senior Adjuster"
+Action: Terminated gracefully on end_turn.

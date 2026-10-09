@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.8, pytest-8.1.1, pluggy-1.4.0
+rootdir: /workspace/Build a Multi-Shift Quality Monitoring System with Claude Orchestration/04-fork-scratchpad/solution
+collected 28 items
+
+tests/test_us01_tiered_state.py ........                                 [ 28%]
+tests/test_us02_invocation_pipeline.py ........                          [ 57%]
+tests/test_us03_crash_recovery.py ............                           [100%]
+
+============================== 28 passed in 0.51s ==============================
